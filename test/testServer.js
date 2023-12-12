@@ -15,7 +15,7 @@ describe('test GET api', function(){
 });
 
 describe('test POST api', function(){
-    it('post cat to DB', function(done){
+    it('post player to DB', function(done){
         request.post({url:url,form:football}, function(a,b,c){
             //todo asserts here
             done();
@@ -24,7 +24,7 @@ describe('test POST api', function(){
 });
 
 describe('test DELETE api', function(){
-    it('delete a cat', function(done){
+    it('delete a player', function(done){
         request.delete({url:url,form:football}, function(a,b,c){
             //todo asserts here
             done();
