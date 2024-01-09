@@ -1,5 +1,5 @@
 {
-  "name": "sit725-2023-t2-p5",
+  "name": "sit725-2023-t2-p7",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Deakin-Rohit-Radhakrishnan/sit725-2023-t1-prac5.git"
+    "url": "git+https://github.com/Deakin-Rohit-Radhakrishnan/sit725-2023-t1-prac7.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Deakin-Rohit-Radhakrishnan/sit725-2023-t1-prac5/issues"
+    "url": "https://github.com/Deakin-Rohit-Radhakrishnan/sit725-2023-t1-prac7/issues"
   },
-  "homepage": "https://github.com/Deakin-Rohit-Radhakrishnan/sit725-2023-t1-prac5#readme",
+  "homepage": "https://github.com/Deakin-Rohit-Radhakrishnan/sit725-2023-t1-prac7#readme",
   "dependencies": {
     "chai": "^4.3.7",
     "express": "^4.18.2",
